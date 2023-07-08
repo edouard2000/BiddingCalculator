@@ -34,30 +34,5 @@ for name, bid in bids.items():
 print(f"The highest bid is: {high_bid} and was donated by {winner}.")
 
        
-    
-        
-        
-    
-
-
-
-
-    
-
-        
-     
-            
-        
-   
-
-
-
-
-
-
-
-# In[ ]:
-
-
 
 
